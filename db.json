@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Super cool product",
+    },
+    {
+      "id": 2,
+      "name": "Unicorn flip flops"
+    }
+  ]
+}
